@@ -55,4 +55,4 @@ Durante esta atividade, aprendi a usar a IA como ferramenta de criação e apoio
 
 ## 🔗 Link do Repositório
 
-
+https://github.com/EricaTorres2026/dio-lab-vibe-coding-app-financas/blob/main/README.md
